@@ -1,0 +1,64 @@
+# Simpleasyty
+
+Sprachindizes: [English](https://simpleasyty.com/llms.txt) · [日本語](https://simpleasyty.com/llms-ja.txt)
+
+> Simpleasyty entwickelt fokussierte Atlassian-Forge-Apps für verlässliche, nachvollziehbare Arbeit in Confluence Cloud.
+
+## Produkte
+
+- [Simpleasyty Startseite](https://simpleasyty.com/de/): Überblick über Simple Tables und Simple Metadata.
+- [Simple Tables für Confluence](https://simpleasyty.com/de/simple-tables/): Interaktive Tabellen, Page-Properties-Berichte, Importe, Berechnungen und Exporte.
+- [Simple Metadata für Confluence](https://simpleasyty.com/de/simple-metadata/): Compliance-fähige Seitendaten mit Schemavorlagen, Validierung, Berechtigungen, Verlauf und Berichten.
+- [Vergleich](https://simpleasyty.com/de/compare/): Vergleich von Simple Tables und Simple Metadata mit Alternativen.
+- [Änderungsprotokoll](https://simpleasyty.com/de/changelog/whats-new/): Versionshinweise für beide Apps.
+- [Support](https://simpleasyty.com/de/support/): Support-Portal und erste Problemlösungen.
+
+## Simple Tables Hilfe-Center
+
+- [Einführung](https://simpleasyty.com/de/simple-tables/docs/introduction/)
+- [Installation](https://simpleasyty.com/de/simple-tables/docs/install/)
+- [Schnellstart](https://simpleasyty.com/de/simple-tables/docs/quick-start/)
+- [Daten einfügen](https://simpleasyty.com/de/simple-tables/docs/paste/): CSV oder JSON direkt in ein Simple-Table-Makro einfügen.
+- [Seitenanhang verwenden](https://simpleasyty.com/de/simple-tables/docs/attachments/): Eine Tabelle aus einer CSV-, JSON- oder Excel-Datei auf der aktuellen Seite erstellen.
+- [Datei hochladen](https://simpleasyty.com/de/simple-tables/docs/file-upload/): CSV, JSON, XLS oder XLSX vom Computer hochladen.
+- [Tabellen verbinden](https://simpleasyty.com/de/simple-tables/docs/join-tables/): Zwei veröffentlichte Simple Tables auf derselben Seite mit Inner Join oder Left Join verbinden, verfügbar ab Version 8.0.0.
+- [Page Properties](https://simpleasyty.com/de/simple-tables/docs/page-properties/)
+- [Confluence-Inhalte](https://simpleasyty.com/de/simple-tables/docs/confluence-content/)
+- [Jira-Vorgänge](https://simpleasyty.com/de/simple-tables/docs/jira-issues/): Geplante Jira-Integration und ihre Marketplace-Beschränkung.
+- [Native Confluence-Tabellen](https://simpleasyty.com/de/simple-tables/docs/confluence-tables/)
+- [Tabellenauszug / Einbinden](https://simpleasyty.com/de/simple-tables/docs/table-excerpt/)
+- [Tabellendaten auf der Seite speichern](https://simpleasyty.com/de/simple-tables/docs/save-attachments/)
+- [Datenresidenz](https://simpleasyty.com/de/simple-tables/docs/data-residency/)
+- [Kein Datenabfluss](https://simpleasyty.com/de/simple-tables/docs/data-egress/)
+- [Berechnete Spalten](https://simpleasyty.com/de/simple-tables/docs/calculated-column/)
+- [Filter](https://simpleasyty.com/de/simple-tables/docs/filters/)
+- [Gruppierung](https://simpleasyty.com/de/simple-tables/docs/grouping/)
+- [Pivot-Tabellen](https://simpleasyty.com/de/simple-tables/docs/pivot-tables/)
+- [CSV oder Excel herunterladen](https://simpleasyty.com/de/simple-tables/docs/download-csv-excel/)
+
+## Simple Metadata Hilfe-Center
+
+- [Simple-Metadata-Demo](https://simpleasyty.com/de/simple-metadata/docs/demo/)
+- [Einführung](https://simpleasyty.com/de/simple-metadata/docs/introduction/): Schemabasierte Metadaten als Compliance-Evidenzschicht.
+- [Schnellstart](https://simpleasyty.com/de/simple-metadata/docs/quick-start/)
+- [Schemata, Felder und Vorlagen](https://simpleasyty.com/de/simple-metadata/docs/schemas/)
+- [Indexierte Felder und Filter](https://simpleasyty.com/de/simple-metadata/docs/indexing-and-filters/)
+- [Schema-Berechtigungen](https://simpleasyty.com/de/simple-metadata/docs/permissions/)
+- [Metadaten erfassen](https://simpleasyty.com/de/simple-metadata/docs/capture-macro/)
+- [Eintrag erfassen, validieren und reparieren](https://simpleasyty.com/de/simple-metadata/docs/capture-entry/)
+- [Metadata Reports](https://simpleasyty.com/de/simple-metadata/docs/report-macro/)
+- [Berichtsfilter und Steuerelemente konfigurieren](https://simpleasyty.com/de/simple-metadata/docs/report-filters/)
+- [Einträge, Verlauf und Revisionen](https://simpleasyty.com/de/simple-metadata/docs/entries-and-history/)
+- [Import und Export](https://simpleasyty.com/de/simple-metadata/docs/import-export/)
+- [Schema-Abgleich](https://simpleasyty.com/de/simple-metadata/docs/reconciliation/)
+- [Sicherheit und Grenzen](https://simpleasyty.com/de/simple-metadata/docs/security-and-limits/)
+- [Schemata, Filter und Berichte beheben](https://simpleasyty.com/de/simple-metadata/docs/troubleshooting/)
+
+## Vertrauen und Rechtliches
+
+- [Trust Center](https://simpleasyty.com/de/trust-center/terms/)
+- [Sicherheit](https://simpleasyty.com/de/trust-center/security/)
+- [Compliance](https://simpleasyty.com/de/trust-center/compliance/)
+- [Datenschutz](https://simpleasyty.com/de/trust-center/privacy/)
+
+Simple Metadata unterstützt Evidenz- und Prüfprozesse, stellt jedoch keine offiziellen Zertifikate aus und ersetzt keine akkreditierte Prüfstelle.

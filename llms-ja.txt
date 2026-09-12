@@ -1,0 +1,64 @@
+# Simpleasyty
+
+言語別インデックス: [English](https://simpleasyty.com/llms.txt) · [Deutsch](https://simpleasyty.com/llms-de.txt)
+
+> Simpleasyty は、Confluence Cloud で信頼性と追跡性のある作業を支える、専用の Atlassian Forge アプリを提供します。
+
+## 製品
+
+- [Simpleasyty ホーム](https://simpleasyty.com/ja/): Simple Tables と Simple Metadata の概要。
+- [Simple Tables for Confluence](https://simpleasyty.com/ja/simple-tables/): インタラクティブなテーブル、Page Properties レポート、インポート、計算、エクスポート。
+- [Simple Metadata for Confluence](https://simpleasyty.com/ja/simple-metadata/): スキーマテンプレート、検証、権限、履歴、レポートを備えたコンプライアンス対応のページデータ。
+- [比較](https://simpleasyty.com/ja/compare/): Simple Tables と Simple Metadata、および代替製品の比較。
+- [変更履歴](https://simpleasyty.com/ja/changelog/whats-new/): 両アプリのリリースノート。
+- [サポート](https://simpleasyty.com/ja/support/): サポートポータルと初期トラブルシューティング。
+
+## Simple Tables ヘルプセンター
+
+- [概要](https://simpleasyty.com/ja/simple-tables/docs/introduction/)
+- [インストール](https://simpleasyty.com/ja/simple-tables/docs/install/)
+- [クイックスタート](https://simpleasyty.com/ja/simple-tables/docs/quick-start/)
+- [データを貼り付ける](https://simpleasyty.com/ja/simple-tables/docs/paste/): CSV または JSON を Simple Table マクロに直接貼り付けます。
+- [ページ添付ファイルを使う](https://simpleasyty.com/ja/simple-tables/docs/attachments/): 現在のページに添付された CSV、JSON、Excel ファイルからテーブルを作成します。
+- [ファイルをアップロード](https://simpleasyty.com/ja/simple-tables/docs/file-upload/): コンピューターから CSV、JSON、XLS、XLSX をアップロードします。
+- [テーブルを結合](https://simpleasyty.com/ja/simple-tables/docs/join-tables/): 同じページで公開された 2 つの Simple Tables を Inner join または Left join で結合します。バージョン 8.0.0 から利用できます。
+- [Page Properties](https://simpleasyty.com/ja/simple-tables/docs/page-properties/)
+- [Confluence コンテンツ](https://simpleasyty.com/ja/simple-tables/docs/confluence-content/)
+- [Jira 課題](https://simpleasyty.com/ja/simple-tables/docs/jira-issues/): 予定されている Jira 連携と Marketplace 上の制約。
+- [ネイティブ Confluence テーブル](https://simpleasyty.com/ja/simple-tables/docs/confluence-tables/)
+- [テーブル抜粋 / 挿入](https://simpleasyty.com/ja/simple-tables/docs/table-excerpt/)
+- [テーブルデータをページに保存](https://simpleasyty.com/ja/simple-tables/docs/save-attachments/)
+- [データ所在地](https://simpleasyty.com/ja/simple-tables/docs/data-residency/)
+- [データの外部送信なし](https://simpleasyty.com/ja/simple-tables/docs/data-egress/)
+- [計算列](https://simpleasyty.com/ja/simple-tables/docs/calculated-column/)
+- [フィルター](https://simpleasyty.com/ja/simple-tables/docs/filters/)
+- [グループ化](https://simpleasyty.com/ja/simple-tables/docs/grouping/)
+- [ピボットテーブル](https://simpleasyty.com/ja/simple-tables/docs/pivot-tables/)
+- [CSV または Excel をダウンロード](https://simpleasyty.com/ja/simple-tables/docs/download-csv-excel/)
+
+## Simple Metadata ヘルプセンター
+
+- [Simple Metadata デモ](https://simpleasyty.com/ja/simple-metadata/docs/demo/)
+- [概要](https://simpleasyty.com/ja/simple-metadata/docs/introduction/): コンプライアンスの証跡レイヤーとしてのスキーマ主導メタデータ。
+- [クイックスタート](https://simpleasyty.com/ja/simple-metadata/docs/quick-start/)
+- [スキーマ、フィールド、テンプレート](https://simpleasyty.com/ja/simple-metadata/docs/schemas/)
+- [インデックス済みフィールドとフィルター](https://simpleasyty.com/ja/simple-metadata/docs/indexing-and-filters/)
+- [スキーマ権限](https://simpleasyty.com/ja/simple-metadata/docs/permissions/)
+- [メタデータを収集](https://simpleasyty.com/ja/simple-metadata/docs/capture-macro/)
+- [エントリーの入力、検証、修復](https://simpleasyty.com/ja/simple-metadata/docs/capture-entry/)
+- [Metadata Report](https://simpleasyty.com/ja/simple-metadata/docs/report-macro/)
+- [レポートフィルターと閲覧者操作を設定する](https://simpleasyty.com/ja/simple-metadata/docs/report-filters/)
+- [エントリ、履歴、リビジョン](https://simpleasyty.com/ja/simple-metadata/docs/entries-and-history/)
+- [インポートとエクスポート](https://simpleasyty.com/ja/simple-metadata/docs/import-export/)
+- [スキーマの照合](https://simpleasyty.com/ja/simple-metadata/docs/reconciliation/)
+- [セキュリティと制限](https://simpleasyty.com/ja/simple-metadata/docs/security-and-limits/)
+- [スキーマ、フィルター、レポートのトラブルシューティング](https://simpleasyty.com/ja/simple-metadata/docs/troubleshooting/)
+
+## 信頼と法務
+
+- [Trust Center](https://simpleasyty.com/ja/trust-center/terms/)
+- [セキュリティ](https://simpleasyty.com/ja/trust-center/security/)
+- [コンプライアンス](https://simpleasyty.com/ja/trust-center/compliance/)
+- [プライバシー](https://simpleasyty.com/ja/trust-center/privacy/)
+
+Simple Metadata は証跡とレビューのワークフローを支援しますが、公的な認証を発行するものではなく、認定された監査機関の代わりにはなりません。

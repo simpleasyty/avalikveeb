@@ -1,0 +1,72 @@
+# Simpleasyty
+
+Language indexes: [Deutsch](https://simpleasyty.com/llms-de.txt) · [日本語](https://simpleasyty.com/llms-ja.txt)
+
+> Simpleasyty builds focused Atlassian Forge apps for governed, dependable work in Confluence Cloud.
+
+## Products
+
+- [Simpleasyty home](https://simpleasyty.com/): Brand overview for Simple Tables and Simple Metadata.
+- [Simple Tables for Confluence](https://simpleasyty.com/simple-tables/): Interactive tables, Page Properties reporting, imports, calculations, filtering and exports.
+- [Simple Metadata for Confluence](https://simpleasyty.com/simple-metadata/): Compliance-ready structured page data with schema templates, validation, permissions, history and reports.
+- [Compare products and alternatives](https://simpleasyty.com/compare/): Switch between Simple Tables and Simple Metadata comparisons.
+- [Changelog](https://simpleasyty.com/changelog/whats-new/): Release notes for both apps.
+- [Support](https://simpleasyty.com/support/): Simpleasyty support portal and startup troubleshooting.
+
+## Simple Tables Help Center
+
+- [Introduction](https://simpleasyty.com/simple-tables/docs/introduction/): Product overview and core concepts.
+- [Install Simple Tables](https://simpleasyty.com/simple-tables/docs/install/): Installation for Confluence Cloud administrators.
+- [Quick start](https://simpleasyty.com/simple-tables/docs/quick-start/): First table setup.
+- [Paste data](https://simpleasyty.com/simple-tables/docs/paste/): Paste CSV or JSON directly into a Simple Table macro.
+- [Use a page attachment](https://simpleasyty.com/simple-tables/docs/attachments/): Build a table from a CSV, JSON, or Excel file attached to the current page.
+- [Upload a file](https://simpleasyty.com/simple-tables/docs/file-upload/): Upload CSV, JSON, XLS, or XLSX from your computer.
+- [Join tables](https://simpleasyty.com/simple-tables/docs/join-tables/): Join two published Simple Tables on the same page using Inner or Left joins, available in version 8.0.0.
+- [Page Properties](https://simpleasyty.com/simple-tables/docs/page-properties/): Live reports from Page Properties macros.
+- [Confluence Content](https://simpleasyty.com/simple-tables/docs/confluence-content/): Live tables built from Confluence pages found with CQL.
+- [Jira Issues](https://simpleasyty.com/simple-tables/docs/jira-issues/): Planned Jira integration and its Marketplace availability constraint.
+- [Native Confluence tables](https://simpleasyty.com/simple-tables/docs/confluence-tables/): Add interaction while preserving native table content.
+- [Table Excerpt / Include](https://simpleasyty.com/simple-tables/docs/table-excerpt/): Add interaction to centrally managed, reusable Confluence tables.
+- [Save table data on the page](https://simpleasyty.com/simple-tables/docs/save-attachments/): Store a table source with its Confluence page as an attachment.
+- [Data residency](https://simpleasyty.com/simple-tables/docs/data-residency/): Storage and residency information for Simple Tables data.
+- [No data egress](https://simpleasyty.com/simple-tables/docs/data-egress/): External data-flow boundary for the app.
+- [Calculated columns](https://simpleasyty.com/simple-tables/docs/calculated-column/): Formula-driven columns.
+- [Filters](https://simpleasyty.com/simple-tables/docs/filters/): Configured, hidden and composable filters.
+- [Grouping](https://simpleasyty.com/simple-tables/docs/grouping/): Grouped table views.
+- [Pivot tables](https://simpleasyty.com/simple-tables/docs/pivot-tables/): Pivot-style summaries.
+- [Download CSV or Excel](https://simpleasyty.com/simple-tables/docs/download-csv-excel/): Export controls.
+
+## Simple Metadata Help Center
+
+- [Simple Metadata demo](https://simpleasyty.com/simple-metadata/docs/demo/): The schema-to-report workflow.
+- [Introduction](https://simpleasyty.com/simple-metadata/docs/introduction/): Schema-driven metadata as a compliance evidence layer.
+- [Quick start](https://simpleasyty.com/simple-metadata/docs/quick-start/): Create a schema, capture an entry and report across pages.
+- [Schemas, fields and templates](https://simpleasyty.com/simple-metadata/docs/schemas/): Structured definitions, templates, constraints and defaults.
+- [Indexed fields and filters](https://simpleasyty.com/simple-metadata/docs/indexing-and-filters/): Typed reporting filters and reconciliation.
+- [Schema permissions](https://simpleasyty.com/simple-metadata/docs/permissions/): Restrict schemas by space, label and group.
+- [Capture metadata](https://simpleasyty.com/simple-metadata/docs/capture-macro/): Page-level capture, validation and repair.
+- [Capture, validate and repair an entry](https://simpleasyty.com/simple-metadata/docs/capture-entry/): Save and review a page-level record.
+- [Metadata reports](https://simpleasyty.com/simple-metadata/docs/report-macro/): Cross-page reports, columns and exposed filters.
+- [Report filters and viewer controls](https://simpleasyty.com/simple-metadata/docs/report-filters/): Fixed filters and safe reader controls.
+- [Entries, history and revisions](https://simpleasyty.com/simple-metadata/docs/entries-and-history/): Live entries, snapshots and schema versions.
+- [Import and export](https://simpleasyty.com/simple-metadata/docs/import-export/): JSON/YAML packages and schemas-only import.
+- [Schema reconciliation](https://simpleasyty.com/simple-metadata/docs/reconciliation/): Review schema-change impact and background processes.
+- [Security and limits](https://simpleasyty.com/simple-metadata/docs/security-and-limits/): Forge SQL, Forge KVS, retention and known limits.
+- [Troubleshooting](https://simpleasyty.com/simple-metadata/docs/troubleshooting/): Eligibility, indexing and report-result checks.
+
+## Trust and legal
+
+- [Trust Center](https://simpleasyty.com/trust-center/terms/): Trust, legal, privacy and enterprise information.
+- [Security](https://simpleasyty.com/trust-center/security/): Security and infrastructure details.
+- [Compliance](https://simpleasyty.com/trust-center/compliance/): Compliance overview.
+- [Architecture](https://simpleasyty.com/trust-center/platform/architecture/): Atlassian Forge and product boundary overview.
+- [Privacy policy](https://simpleasyty.com/trust-center/privacy/): Privacy policy.
+
+## Language indexes
+
+- [German LLM index](https://simpleasyty.com/llms-de.txt)
+- [Japanese LLM index](https://simpleasyty.com/llms-ja.txt)
+
+## Crawling notes
+
+The site is static HTML and can be crawled without running application-specific JavaScript. Simple Metadata supports evidence and review workflows, but does not issue official certifications or replace an accredited assessor.
