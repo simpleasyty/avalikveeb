@@ -1,0 +1,110 @@
+# Simpleasyty
+
+言語別インデックス: [English](https://simpleasyty.com/llms.txt) · [Deutsch](https://simpleasyty.com/llms-de.txt)
+
+> Simpleasyty は、Confluence Cloud で信頼性と追跡性のある作業を支える、専用の Atlassian Forge アプリを提供します。
+
+## 製品
+
+- [Simpleasyty ホーム](https://simpleasyty.com/ja/): Simple Tables と Simple Metadata の概要。
+- [Simple Tables for Confluence](https://simpleasyty.com/ja/simple-tables/): インタラクティブなテーブル、Page Properties レポート、インポート、計算、エクスポート。
+- [Simple Metadata for Confluence](https://simpleasyty.com/ja/simple-metadata/): スキーマテンプレート、検証、権限、履歴、レポートを備えたコンプライアンス対応のページデータ。
+- [比較](https://simpleasyty.com/ja/compare/): Simple Tables と Simple Metadata、および代替製品の比較。
+- [変更履歴](https://simpleasyty.com/ja/changelog/whats-new/): 両アプリのリリースノート。
+- [サポート](https://simpleasyty.com/ja/support/): サポートポータルと初期トラブルシューティング。
+
+## Simple Tables ヘルプセンター
+
+- [概要](https://simpleasyty.com/ja/simple-tables/docs/introduction/)
+- [インストール](https://simpleasyty.com/ja/simple-tables/docs/install/)
+- [クイックスタート](https://simpleasyty.com/ja/simple-tables/docs/quick-start/)
+- [データを貼り付ける](https://simpleasyty.com/ja/simple-tables/docs/paste/): CSV または JSON を Simple Table マクロに直接貼り付けます。
+- [ページ添付ファイルを使う](https://simpleasyty.com/ja/simple-tables/docs/attachments/): 現在のページに添付された CSV、JSON、Excel ファイルからテーブルを作成します。
+- [ファイルをアップロード](https://simpleasyty.com/ja/simple-tables/docs/file-upload/): コンピューターから CSV、JSON、XLS、XLSX をアップロードします。
+- [テーブルを結合](https://simpleasyty.com/ja/simple-tables/docs/join-tables/): 同じページで公開された 2 つの Simple Tables を Inner join または Left join で結合します。バージョン 8.0.0 から利用できます。
+- [Page Properties](https://simpleasyty.com/ja/simple-tables/docs/page-properties/)
+- [Confluence コンテンツ](https://simpleasyty.com/ja/simple-tables/docs/confluence-content/)
+- [Jira 課題](https://simpleasyty.com/ja/simple-tables/docs/jira-issues/): 予定されている Jira 連携と Marketplace 上の制約。
+- [ネイティブ Confluence テーブル](https://simpleasyty.com/ja/simple-tables/docs/confluence-tables/)
+- [テーブル抜粋 / 挿入](https://simpleasyty.com/ja/simple-tables/docs/table-excerpt/)
+- [テーブルデータをページに保存](https://simpleasyty.com/ja/simple-tables/docs/save-attachments/)
+- [Atlassian Store: Forge にテーブルデータを保存](https://simpleasyty.com/ja/simple-tables/docs/forge-storage/)
+- [データ所在地](https://simpleasyty.com/ja/simple-tables/docs/data-residency/)
+- [データの外部送信なし](https://simpleasyty.com/ja/simple-tables/docs/data-egress/)
+- [計算列](https://simpleasyty.com/ja/simple-tables/docs/calculated-column/)
+- [フィルター](https://simpleasyty.com/ja/simple-tables/docs/filters/)
+- [グループ化](https://simpleasyty.com/ja/simple-tables/docs/grouping/)
+- [ピボットテーブル](https://simpleasyty.com/ja/simple-tables/docs/pivot-tables/)
+- [CSV または Excel をダウンロード](https://simpleasyty.com/ja/simple-tables/docs/download-csv-excel/)
+
+## Simple Metadata ヘルプセンター
+
+- [Simple Metadata デモ](https://simpleasyty.com/ja/simple-metadata/docs/demo/)
+- [概要](https://simpleasyty.com/ja/simple-metadata/docs/introduction/): コンプライアンスの証跡レイヤーとしてのスキーマ主導メタデータ。
+- [クイックスタート](https://simpleasyty.com/ja/simple-metadata/docs/quick-start/)
+- [スキーマ、フィールド、テンプレート](https://simpleasyty.com/ja/simple-metadata/docs/schemas/)
+- [インデックス済みフィールドとフィルター](https://simpleasyty.com/ja/simple-metadata/docs/indexing-and-filters/)
+- [スキーマ権限](https://simpleasyty.com/ja/simple-metadata/docs/permissions/)
+- [メタデータを収集](https://simpleasyty.com/ja/simple-metadata/docs/capture-macro/)
+- [エントリーの入力、検証、修復](https://simpleasyty.com/ja/simple-metadata/docs/capture-entry/)
+- [Metadata Report](https://simpleasyty.com/ja/simple-metadata/docs/report-macro/)
+- [レポートフィルターと閲覧者操作を設定する](https://simpleasyty.com/ja/simple-metadata/docs/report-filters/)
+- [エントリ、履歴、リビジョン](https://simpleasyty.com/ja/simple-metadata/docs/entries-and-history/)
+- [インポートとエクスポート](https://simpleasyty.com/ja/simple-metadata/docs/import-export/)
+- [スキーマの照合](https://simpleasyty.com/ja/simple-metadata/docs/reconciliation/)
+- [セキュリティと制限](https://simpleasyty.com/ja/simple-metadata/docs/security-and-limits/)
+- [スキーマ、フィルター、レポートのトラブルシューティング](https://simpleasyty.com/ja/simple-metadata/docs/troubleshooting/)
+
+## 信頼と法務
+
+- [Trust Center](https://simpleasyty.com/ja/trust-center/terms/)
+- [セキュリティ](https://simpleasyty.com/ja/trust-center/security/)
+- [コンプライアンス](https://simpleasyty.com/ja/trust-center/compliance/)
+- [プライバシー](https://simpleasyty.com/ja/trust-center/privacy/)
+
+Simple Metadata は証跡とレビューのワークフローを支援しますが、公的な認証を発行するものではなく、認定された監査機関の代わりにはなりません。
+
+## その他のドキュメントとリソース
+
+- [Confluence データベースと Simple Tables の比較](https://simpleasyty.com/ja/compare/confluence-databases-vs-simple-tables/): 構造化レコード、ページテーブル、ファイルインポート、計算、ビュー、公開レポートについて Confluence データベースと Simple Tables を比較します。
+- [Confluence ネイティブテーブルと Simple Tables の比較](https://simpleasyty.com/ja/compare/native-confluence-tables-vs-simple-tables/): ネイティブテーブルで十分な場面と、Simple Tables の検索、フィルター、グループ化、計算、インポート、エクスポートが役立つ場面を説明します。
+- [Confluence テーブルで合計を計算する](https://simpleasyty.com/ja/guides/calculate-totals-in-confluence-table/): フッター集計とグループ集計を使い、合計、平均、件数、最小、最大を計算します。
+- [Confluence でピボットテーブルを作成する](https://simpleasyty.com/ja/guides/create-pivot-table-in-confluence/): 行のディメンション、値、集計を選択して、Confluence にピボット形式の集計を作成します。
+- [Confluence テーブルを Excel にエクスポートする](https://simpleasyty.com/ja/guides/export-confluence-table-to-excel/): Simple Table の CSV および Excel ダウンロードを有効にし、どの表示値がエクスポートされるかを確認します。
+- [Confluence でテーブルをフィルターする](https://simpleasyty.com/ja/guides/filter-table-in-confluence/): Simple Tables の検索、グループ化、データ型を使って Confluence にインタラクティブなテーブルフィルターを追加します。
+- [Confluence テーブルで行をグループ化する](https://simpleasyty.com/ja/guides/group-rows-in-confluence-table/): ステータス、担当者、地域などで Confluence テーブルの行をグループ化し、グループごとの集計を追加します。
+- [CSV を Confluence にインポートする](https://simpleasyty.com/ja/guides/import-csv-into-confluence/): CSV を検索、並べ替え、グループ化、計算列、エクスポートを備えたインタラクティブな Confluence テーブルに変換します。
+- [Excel を Confluence にインポートする](https://simpleasyty.com/ja/guides/import-excel-into-confluence/): XLS または XLSX をインタラクティブな Confluence テーブルに取り込み、列、検索、グループ化、エクスポートを設定します。
+- [Confluence でテーブルを並べ替える](https://simpleasyty.com/ja/guides/sort-table-in-confluence/): Confluence のネイティブな並べ替えと、Simple Tables で再利用できるインタラクティブな並べ替えを追加する方法を説明します。
+- [Simple Metadata ドキュメント — Simpleasyty](https://simpleasyty.com/ja/simple-metadata/docs/): スキーマからレポートまでのワークフローから始め、入力、レポート、管理を詳しく確認します。
+- [グループ集計 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/column-aggregation/): グループ化した行の要約を設定します。
+- [列の色 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/column-colors/): 色としきい値で値を読みやすくします。
+- [列の並べ替え — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/column-reordering/): 列を希望する順序に配置します。
+- [機密ラベル — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/confidential-label/): 機密テーブルに見えるラベルを表示します。
+- [データ型 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/data-type-column/): 列タイプ、自動判定、表示形式を設定します。
+- [列を削除 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/delete-column/): 不要な列を設定から削除します。
+- [式関数 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/expression-functions/): 計算列で利用できる関数です。
+- [フッター集計 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/footer-aggregation/): テーブル末尾に集計を表示します。
+- [全画面モード — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/full-screen-mode/): テーブルを全画面で表示します。
+- [非表示 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/hide-column/): 表示テーブルから列を隠します。
+- [インコグニートモード — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/incognito-mode/): 編集者用データを閲覧者から保護します。
+- [レイアウトと間隔 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/layout-and-spacing/): テーブルの密度とレイアウトを調整します。
+- [ネストした JSON フィールド — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/nested-json-fields/): ネストした JSON データのフィールドを使用します。
+- [ページネーション — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/pagination/): 大きなテーブルをページ単位で表示します。
+- [見出しを変更 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/rename-heading/): 表示される列見出しを調整します。
+- [Rovo — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/rovo/): Atlassian Rovo と Simple Tables の利用。
+- [行番号 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/row-numbers/): テーブルの行番号を表示または非表示にします。
+- [Atlassian 上で動作 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/runs-on-atlassian/): Atlassian プラットフォーム内でのアプリの動作。
+- [検索 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/search-bar/): テーブル全体の検索を使用します。
+- [並べ替え — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/sorting/): 1 つまたは複数の列で行を並べ替えます。
+- [テキストの表示 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/style-and-alignment/): 列の値の配置とスタイルを設定します。
+- [テーブルの色 — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/table-colors/): テーブル全体の色を設定します。
+- [テーブルの高さ — Simple Tables (日本語)](https://simpleasyty.com/ja/simple-tables/docs/table-height/): テーブルの縦方向のサイズを制御します。
+- [Cookie ポリシー — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/cookies/): Simpleasyty における Cookie とプライバシーに配慮したウェブ分析の使用。
+- [データ処理契約（DPA） — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/dpa/): Simpleasyty におけるデータ処理とプライバシー。
+- [エンタープライズ FAQ — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/enterprise/faq/): Simpleasyty の審査時にエンタープライズチームから寄せられる主な質問。
+- [エンドユーザー使用許諾契約（EULA） — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/eula/): Simpleasyty アプリケーションの利用に関するライセンス条件。
+- [アーキテクチャ — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/platform/architecture/): Simpleasyty アプリの Atlassian Forge 上での構成と顧客データの流れ。
+- [プラットフォーム原則 — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/platform/principles/): エンタープライズ顧客向け Atlassian アプリを構築する際の原則。
+- [信頼性 — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/platform/reliability/): 顧客が Simpleasyty アプリケーションを長期的に信頼できる理由。
+- [サービスレベル（SLA・サポート） — Simpleasyty Trust Center](https://simpleasyty.com/ja/trust-center/sla/): サポート、応答時間、可用性に関する方針。
