@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simpleasyty.com/sitemap-index.xml
+
+# Language-specific machine-readable site indexes.
+# https://llmstxt.org/ is an emerging convention; crawlers that ignore it are unaffected.
+LLMS: https://simpleasyty.com/llms.txt
+LLMS: https://simpleasyty.com/llms-de.txt
+LLMS: https://simpleasyty.com/llms-ja.txt
