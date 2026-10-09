@@ -1,0 +1,150 @@
+# Simpleasyty
+
+Language indexes: [Deutsch](https://simpleasyty.com/llms-de.txt) · [日本語](https://simpleasyty.com/llms-ja.txt)
+
+> Simpleasyty builds focused Atlassian Forge apps for governed, dependable work in Confluence Cloud.
+
+## Products
+
+- [Simpleasyty home](https://simpleasyty.com/): Brand overview for Simple Tables and Simple Metadata.
+- [Compare products and alternatives](https://simpleasyty.com/compare/): Switch between Simple Tables and Simple Metadata comparisons.
+- [Changelog](https://simpleasyty.com/changelog/whats-new/): Release notes for both apps.
+- [Support](https://simpleasyty.com/support/): Simpleasyty support portal and startup troubleshooting.
+
+## Simple Tables Help Center
+
+- [Introduction](https://simpleasyty.com/simple-tables/docs/introduction/): Product overview and core concepts.
+- [Install Simple Tables](https://simpleasyty.com/simple-tables/docs/install/): Installation for Confluence Cloud administrators.
+- [Quick start](https://simpleasyty.com/simple-tables/docs/quick-start/): First table setup.
+- [Paste data](https://simpleasyty.com/simple-tables/docs/paste/): Paste CSV or JSON directly into a Simple Table macro.
+- [Use a page attachment](https://simpleasyty.com/simple-tables/docs/attachments/): Build a table from a CSV, JSON, or Excel file attached to the current page.
+- [Upload a file](https://simpleasyty.com/simple-tables/docs/file-upload/): Upload CSV, JSON, XLS, or XLSX from your computer.
+- [Page Properties](https://simpleasyty.com/simple-tables/docs/page-properties/): Live reports from Page Properties macros.
+- [Confluence Content](https://simpleasyty.com/simple-tables/docs/confluence-content/): Live tables built from Confluence pages found with CQL.
+- [Jira Issues](https://simpleasyty.com/simple-tables/docs/jira-issues/): Planned Jira integration and its Marketplace availability constraint.
+- [Native Confluence tables](https://simpleasyty.com/simple-tables/docs/confluence-tables/): Add interaction while preserving native table content.
+- [Table Excerpt / Include](https://simpleasyty.com/simple-tables/docs/table-excerpt/): Add interaction to centrally managed, reusable Confluence tables.
+- [Save table data on the page](https://simpleasyty.com/simple-tables/docs/save-attachments/): Store a table source with its Confluence page as an attachment.
+- [Atlassian Store: table data in Forge](https://simpleasyty.com/simple-tables/docs/forge-storage/)
+- [Data residency](https://simpleasyty.com/simple-tables/docs/data-residency/): Storage and residency information for Simple Tables data.
+- [Do my table data stay in Atlassian?](https://simpleasyty.com/simple-tables/docs/data-egress/): What stays in Atlassian and when an external connection is possible.
+- [Calculated columns](https://simpleasyty.com/simple-tables/docs/calculated-column/): Formula-driven columns.
+- [Filters](https://simpleasyty.com/simple-tables/docs/filters/): Configured, hidden and composable filters.
+- [Grouping](https://simpleasyty.com/simple-tables/docs/grouping/): Grouped table views.
+- [Pivot tables](https://simpleasyty.com/simple-tables/docs/pivot-tables/): Pivot-style summaries.
+- [Download CSV or Excel](https://simpleasyty.com/simple-tables/docs/download-csv-excel/): Export controls.
+
+## Simple Metadata Help Center
+
+- [Introduction](https://simpleasyty.com/simple-metadata/docs/introduction/): Schema-driven metadata as a compliance evidence layer.
+- [Quick start](https://simpleasyty.com/simple-metadata/docs/quick-start/): Create a schema, capture metadata and report across pages.
+- [Schemas, fields and templates](https://simpleasyty.com/simple-metadata/docs/schemas/): Structured definitions, templates, constraints and defaults.
+- [Indexed fields and filters](https://simpleasyty.com/simple-metadata/docs/indexing-and-filters/): Typed reporting filters and reconciliation.
+- [Schema permissions](https://simpleasyty.com/simple-metadata/docs/permissions/): Restrict schemas by space, label and group.
+- [Capture metadata](https://simpleasyty.com/simple-metadata/docs/capture-macro/): Page-level capture, validation and repair.
+- [Capture, validate and repair metadata](https://simpleasyty.com/simple-metadata/docs/capture-entry/): Save and review page-level metadata.
+- [Metadata reports](https://simpleasyty.com/simple-metadata/docs/report-macro/): Cross-page reports, columns and exposed filters.
+- [Report filters and viewer controls](https://simpleasyty.com/simple-metadata/docs/report-filters/): Fixed filters and safe reader controls.
+- [Metadata, history and revisions](https://simpleasyty.com/simple-metadata/docs/entries-and-history/): Live metadata, snapshots and schema versions.
+- [Data residency](https://simpleasyty.com/simple-metadata/docs/data-residency/): Where Forge stores Simple Metadata data.
+- [Storage in Forge](https://simpleasyty.com/simple-metadata/docs/forge-storage/): Storage for current metadata and earlier versions.
+- [Retention and deletion](https://simpleasyty.com/simple-metadata/docs/retention-and-deletion/): Current metadata, earlier versions and uninstall.
+- [Compliance workflows](https://simpleasyty.com/simple-metadata/docs/compliance/): Validation, history and reports.
+- [Import Page Properties](https://simpleasyty.com/simple-metadata/docs/page-properties/)
+- [Import and export](https://simpleasyty.com/simple-metadata/docs/import-export/): JSON/YAML packages and schemas-only import.
+- [Schema reconciliation](https://simpleasyty.com/simple-metadata/docs/reconciliation/): Review schema-change impact and background processes.
+- [Security and limits](https://simpleasyty.com/simple-metadata/docs/security-and-limits/): Forge SQL, Forge KVS, retention and known limits.
+- [Troubleshooting](https://simpleasyty.com/simple-metadata/docs/troubleshooting/): Eligibility, indexing and report-result checks.
+
+## Trust and legal
+
+- [Trust Center](https://simpleasyty.com/trust-center/terms/): Trust, legal, privacy and enterprise information.
+- [Security](https://simpleasyty.com/trust-center/security/): Security and infrastructure details.
+- [Compliance](https://simpleasyty.com/trust-center/compliance/): Compliance overview.
+- [Architecture](https://simpleasyty.com/trust-center/platform/architecture/): Atlassian Forge and product boundary overview.
+- [Privacy policy](https://simpleasyty.com/trust-center/privacy/): Privacy policy.
+
+## Language indexes
+
+- [German LLM index](https://simpleasyty.com/llms-de.txt)
+- [Japanese LLM index](https://simpleasyty.com/llms-ja.txt)
+
+## Crawling notes
+
+The site is static HTML and can be crawled without running application-specific JavaScript. Simple Metadata supports evidence and review workflows, but does not issue official certifications or replace an accredited assessor.
+
+## Additional documentation and resources
+
+- [Confluence Databases vs Simple Tables](https://simpleasyty.com/compare/confluence-databases-vs-simple-tables/): Compare Confluence databases and Simple Tables for structured records, page tables, file imports, calculations, views, and published reporting workflows.
+- [Native Confluence Tables vs Simple Tables](https://simpleasyty.com/compare/native-confluence-tables-vs-simple-tables/): Understand when a native Confluence table is enough and when Simple Tables adds useful search, filtering, grouping, calculations, imports, and export.
+- [How to Calculate Totals in a Confluence Table](https://simpleasyty.com/guides/calculate-totals-in-confluence-table/): Calculate sums, averages, counts, minimums, and maximums in Confluence tables with footer and grouping aggregations.
+- [How to Create a Pivot Table in Confluence](https://simpleasyty.com/guides/create-pivot-table-in-confluence/): Create pivot-style summaries in Confluence with Simple Tables by choosing row dimensions, values, and aggregations.
+- [How to Export a Confluence Table to Excel](https://simpleasyty.com/guides/export-confluence-table-to-excel/): Enable CSV and Excel downloads for a Simple Table in Confluence and understand which displayed values are exported.
+- [How to Filter a Table in Confluence](https://simpleasyty.com/guides/filter-table-in-confluence/): Add table filtering in Confluence using Simple Tables search, column behavior, grouping, and data types.
+- [How to Group Rows in a Confluence Table](https://simpleasyty.com/guides/group-rows-in-confluence-table/): Group Confluence table rows by status, owner, region, or another column and add aggregations to each group with Simple Tables.
+- [How to Import CSV into Confluence](https://simpleasyty.com/guides/import-csv-into-confluence/): Turn CSV data into an interactive Confluence table with search, sorting, grouping, calculated columns, and export.
+- [How to Import Excel into Confluence](https://simpleasyty.com/guides/import-excel-into-confluence/): Import XLS or XLSX data into an interactive Confluence table with Simple Tables, then configure columns, search, grouping, and export.
+- [How to Sort a Table in Confluence](https://simpleasyty.com/guides/sort-table-in-confluence/): Learn how native Confluence sorting works and how to add persistent, interactive sorting with Simple Tables.
+- [Simple Metadata documentation — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/): Start with an overview of schemas, capture and reports.
+- [Create a schema from scratch — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/create-schema-scratch/): Define your own fields in the visual Schema Builder.
+- [Create a schema from a template — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/create-schema-template/): Start with prepared fields, then adapt the schema to your work.
+- [Confluence reference fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-confluence-reference/): Select a page, space or person in Confluence.
+- [Date / Time fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-date-time/): Capture dates, timestamps or times of day.
+- [Email fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-email/): Collect a validated email address.
+- [Field group fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-group/): Organize named subfields inside one nested object.
+- [List fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-list/): Collect several items with one shared item type.
+- [Number fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-number/): Capture measurable values with optional bounds and steps.
+- [Single choice fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-single-choice/): Choose one value from a defined list.
+- [Text fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-text/): Collect names, identifiers and free-form notes.
+- [Schema field types — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-types/): A field-by-field guide to the Simple Metadata Schema Builder.
+- [URL fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-url/): Store a web address or URI with link-friendly display.
+- [Yes / No fields — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/field-yes-no/): Capture a true or false answer.
+- [Import a JSON or YAML schema package — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/import-schema-package/): Create schemas from an exported Simple Metadata package.
+- [Application Portfolio — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-application-portfolio/): Build a searchable inventory of applications that connects business ownership, technology, cost and lifecycle.
+- [Architecture Decision Record — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-architecture-decision-record/): Keep major technical decisions discoverable as systems and teams change, including decisions that replace earlier ones.
+- [Business Continuity Register — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-business-continuity-register/): Record recovery expectations for critical services and give continuity owners a consistent basis for planning and testing.
+- [Controlled Document — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-controlled-document/): Use one document record across teams to make approvals and review dates traceable even outside a specific framework.
+- [Data Classification — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-data-classification/): Label Confluence content consistently and make ownership, sensitivity and retention visible to the teams handling it.
+- [GDPR Processing Activity — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-gdpr-processing-activity/): Structure a processing-activity record so privacy teams can find ownership, legal basis, data categories and review information.
+- [Information Asset Register — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-information-asset-register/): Inventory important information assets with enough context to assess ownership, sensitivity and review needs.
+- [ISO 27001 Document Control — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-iso-27001-document-control/): Apply a repeatable control record to policies and procedures so reviews, approvals and effective dates are easier to track.
+- [Policy Management — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-policy-management/): Manage policies as a portfolio with clear ownership, approval status and scheduled review, rather than relying on page titles alone.
+- [Security Risk Register — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-security-risk-register/): Give every security risk a consistent record, so teams can compare exposure, assign treatment and revisit it on time.
+- [SOC 2 Evidence Register — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-soc-2-evidence-register/): Keep audit evidence tied to a control, a collection period and the people responsible for collecting and reviewing it.
+- [Third-Party Risk — Simpleasyty](https://simpleasyty.com/simple-metadata/docs/template-third-party-risk/): Create one view of vendor exposure, security review and renewal so important supplier decisions are easier to follow.
+- [Boolean columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/boolean-columns/): Use true and false values in Simple Tables columns.
+- [Grouping Aggregation — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/column-aggregation/): Choose how grouped columns summarize their values: Sum, Avg, Min, Max, Count, Count distinct, and Mode.
+- [Column colors — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/column-colors/): Apply a background color and text color to a specific column from Columns > Display.
+- [Drag & Drop Columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/column-reordering/): Learn how to reorder table columns with drag and drop in Simple Tables for Confluence Cloud.
+- [Confidential Label — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/confidential-label/): Add a clear confidential-content notice above sensitive Simple Tables.
+- [Column Data Type — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/data-type-column/): Set the right data type for each column — Text, Number, Date, Boolean, or Enum — and fine-tune formatting for clear sorting, filtering, grouping, and display.
+- [Date columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/date-columns/): Choose Confluence, ISO 8601 or custom date formats and use date values in Simple Tables.
+- [Delete Column — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/delete-column/): Remove unnecessary columns from your table configuration.
+- [Enum columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/enum-columns/): Use category values, colors and appearances in Simple Tables.
+- [Expression Functions — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/expression-functions/): Find every supported calculation function, its syntax and examples for Simple Tables.
+- [Footer Aggregation — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/footer-aggregation/): Choose how the table footer summarizes columns: Count, Count distinct, Sum, Average, Min, Max, Values, and Mode.
+- [Full Screen Mode — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/full-screen-mode/): Let readers open Simple Tables in a larger focused view.
+- [Hide Columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/hide-column/): Learn how to hide and show columns in Simple Tables for Confluence Cloud.
+- [Incognito Mode — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/incognito-mode/): Use Incognito mode to show selected column content only to users who can edit the Confluence page.
+- [Join Tables — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/join-tables/): Combine two published Simple Tables on one Confluence page with INNER or LEFT joins.
+- [Layout and spacing — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/layout-and-spacing/): Choose the table density and spacing that make a Simple Tables view easiest to review.
+- [Nested JSON Fields — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/nested-json-fields/): Extract and use nested fields from JSON structures to create rich, dynamic tables.
+- [Number columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/number-columns/): Configure five number formats, currencies, precision and percentage progress bar colors in Simple Tables.
+- [Pagination — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/pagination/): Learn how readers browse long Simple Tables results with automatic pagination and rows-per-page controls.
+- [Rename Headings — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/rename-heading/): Learn how to rename column headings in Simple Tables for Confluence Cloud.
+- [Rovo — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/rovo/): Use Ask Rovo to analyze a focused Simple Tables view in Confluence.
+- [Row Numbers — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/row-numbers/): Add a stable row-number column to make Simple Tables easier to scan and discuss.
+- [Simple Tables and 'Runs on Atlassian' — Simpleasyty Docs](https://simpleasyty.com/simple-tables/docs/runs-on-atlassian/): Understand where Simple Tables runs, how it handles data, and where to find published trust details.
+- [Search — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/search-bar/): Search table rows across visible columns in Simple Tables for Confluence.
+- [Sorting — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/sorting/): Enable, combine, and save column sorting in Simple Tables for Confluence.
+- [Text Appearance — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/style-and-alignment/): Format table column text with style, horizontal alignment, vertical position, and text direction options.
+- [Table colors — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/table-colors/): Set global table colors for headers, rows, borders, group rows, and footer totals in Simple Tables.
+- [Table height — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/table-height/): Choose how much of a Simple Tables view stays visible before it scrolls vertically.
+- [Text columns — Simple Tables Docs](https://simpleasyty.com/simple-tables/docs/text-columns/): Configure text values, links, styles, alignment, colors and visibility in Simple Tables.
+- [Cookie Policy — Simpleasyty](https://simpleasyty.com/trust-center/cookies/): Learn how Simpleasyty uses cookies and privacy-friendly analytics on our website.
+- [Data Processing Agreement (DPA) — Simpleasyty](https://simpleasyty.com/trust-center/dpa/): Read Simpleasyty's Data Processing Agreement. Understand how we handle data protection and compliance.
+- [Enterprise FAQ — Simpleasyty Trust Center](https://simpleasyty.com/trust-center/enterprise/faq/): Common questions enterprise teams ask while reviewing Simpleasyty.
+- [End User License Agreement (EULA) — Simpleasyty](https://simpleasyty.com/trust-center/eula/): Understand the terms of the license for using Simpleasyty applications.
+- [Platform Principles — Simpleasyty Trust Center](https://simpleasyty.com/trust-center/platform/principles/): The principles Simpleasyty follows when building Atlassian apps for enterprise customers.
+- [Reliability — Simpleasyty Trust Center](https://simpleasyty.com/trust-center/platform/reliability/): Why customers can trust Simpleasyty applications over time.
+- [Service Level Agreement (SLA) — Simpleasyty](https://simpleasyty.com/trust-center/sla/): Understand Simpleasyty's support commitment, response times, and availability expectations.
